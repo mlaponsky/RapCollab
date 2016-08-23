@@ -1,2 +1,3 @@
-data/
-hip_hop_map/
+data/*
+hip_hop_map/*
+lib/*
